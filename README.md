@@ -8,7 +8,7 @@ Collection of practical Linux Bash scripts, network troubleshooting logs, and sy
 ## Getting Started
 
 ### 1. Clone the repository
-bash
+```bash
 git clone [https://github.com/fazmilatif/sysadmin-noc-toolkit.git](https://github.com/fazmilatif/sysadmin-noc-toolkit.git)
 cd sysadmin-noc-toolkit/scripts
 
